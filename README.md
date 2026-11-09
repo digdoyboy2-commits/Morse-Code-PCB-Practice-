@@ -9,4 +9,4 @@ The custom 2-layer PCB was engineered from scratch in KiCad with a full ground p
 
 Design & Layout
 ![PCB Layout Editor](layout.png)
-![Circuit Schematic](schematic.png)
+![Circuit Schematic](schematic1.png)
